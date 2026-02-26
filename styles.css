@@ -67,7 +67,7 @@ h1, h2, h3, h4 {
 .hero {
     /* ATENCIÓN: Revisá que el archivo en tu repo de GitHub se llame EXACTAMENTE "fondo.png" (respetando mayúsculas y minúsculas) */
     background: linear-gradient(135deg, rgba(38, 77, 126, 0.6), rgba(81, 41, 120, 0.6)), 
-                url('fondo.png'); 
+                url('1fondo.png'); 
     background-size: cover;       
     background-position: center;  
     background-attachment: fixed; /* Efecto Parallax */
